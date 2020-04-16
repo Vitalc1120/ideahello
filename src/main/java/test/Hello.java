@@ -5,6 +5,6 @@ public class Hello {
 		System.out.println("hello");
 		System.out.println("wow");
 		
-		System.out.println();
+		System.out.println("aaa");
 	}
 }
